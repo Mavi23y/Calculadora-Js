@@ -1,6 +1,4 @@
 # Calculadora-Js
 Atividade Santiago
-Maria Vitória 
-Gabrielly 
-Matheus 
-Thomas
+-----------------
+Maria Vitória, Gabrielly, Matheus, Thomas
